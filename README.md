@@ -1,5 +1,6 @@
 # musify
 It is a music streaming clone of spotify.
+can
 
 # To run the project :
  step:1 have node js installed in your system <br><br>
