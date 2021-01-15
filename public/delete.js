@@ -27,7 +27,7 @@ $(".overlay").on('click', function(){
    
  // delete function
 
-$(").on("click", function () {
+$(".delete").on("click", function () {
     var songId = $(this).attr("value");
     
     $.ajax({
