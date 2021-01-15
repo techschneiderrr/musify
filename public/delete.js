@@ -13,7 +13,7 @@ $(".delete").on("click", function () {
     location.reload()
     //alert("Deleted successfully");
 });
-
+//click function
 $(".overlay").on('click', function(){
     var x=event.target.getAttribute('data1');
     var y = event.target.getAttribute('data');
