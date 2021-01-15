@@ -26,7 +26,11 @@ $(".overlay").on('click', function(){
  });
    
  // delete function
-{
+
+$("b).on("click", function () {
+    var songId = $(this).attr("value");
+    
+    $.ajax({
         url: "/playlist/recent/" + songId,
         type: "DELETE",
         dataType: "json",
