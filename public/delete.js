@@ -39,6 +39,7 @@ $(".delete").on("click", function () {
                 
         }
     });
+    // alert to delete
     location.reload()
    // alert("Deleted successfully");
 });
