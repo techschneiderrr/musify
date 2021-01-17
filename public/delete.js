@@ -12,7 +12,7 @@ $(".delete").on("click", function () {
     });
     location.reload()
     //alert("Deleted successfully");
-    erfgrgnfghtgfnregdfergdewtrhhtytrrggrhfngd
+    erfgrgnfghtgfnregdfergdewtrhhtytrrggrhfngdhtregertghrd
 });
 //click function
 $(".overlay").on('click', function(){
