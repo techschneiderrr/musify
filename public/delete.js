@@ -12,7 +12,7 @@ $(".delete").on("click", function () {
     });
     location.reload()
     //alert("Deleted successfully");
-    erfgr
+    erfg
 });
 //click function
 $(".overlay").on('click', function(){
