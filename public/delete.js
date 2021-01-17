@@ -12,6 +12,7 @@ $(".delete").on("click", function () {
     });
     location.reload()
     //alert("Deleted successfully");
+    erfgrgnfghtgfn
 });
 //click function
 $(".overlay").on('click', function(){
