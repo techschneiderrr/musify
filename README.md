@@ -2,7 +2,7 @@
 It is a music streaming clone of spotify.
 can be used to 
 
-#### Any song can be listened for a max duration of
+#### Any song can be listened for a max duration of 30 
 
 # To run the project :
  step:1 have node js installed in your system <br><br>
