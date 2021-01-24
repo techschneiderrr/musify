@@ -2,7 +2,9 @@
 It is a music streaming clone of spotify.
 can be used to 
 
-#### Any song can be listened for a max duration of 30 seconds. One can search and enjoy his favourite music. login functionality also 
+#### Any song can be listened for a max duration of 30 seconds. One can search and enjoy his favourite music. login functionality also implimented.
+
+### Link to the live project : https://musify-zuzify.herokuapp.com/
 
 # To run the project :
  step:1 have node js installed in your system <br><br>
