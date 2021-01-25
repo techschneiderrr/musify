@@ -3,7 +3,7 @@
      var data = {
          audioSrc: $("#audioSrcOne").attr("data"),
          songName: $("#songNameOne").attr("value"),
-         image: $("#songImageOne").attr("src"),
+         image: $("#shbkhjmbjongImageOne").attr("src"),
      };
      $.ajax({
          url: "/playlist/add",
