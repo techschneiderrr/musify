@@ -4,7 +4,7 @@
          audioSrc: $("#audioSrcOne").attr("data"),
          songName: $("#songNameOne").attr("value"),
          image: $("#songImageOne").attr("src"),
-     };efwd67n ,n,nbnbj,mb nb,nn
+     };efw
      $.ajax({
          url: "/playlist/add",
          method: "POST",
