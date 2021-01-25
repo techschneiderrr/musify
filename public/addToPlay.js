@@ -1,6 +1,6 @@
  $("#firstSong").on('click', function (e) {
      e.preventDefault();
-     var data = {hkvbkh,jbnjmhmvnmhn bnm
+     var data = {
          audioSrc: $("#audioSrcOne").attr("data"),
          songName: $("#songNameOne").attr("value"),
          image: $("#songImageOne").attr("src"),
