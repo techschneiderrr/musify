@@ -13,7 +13,7 @@
          data: JSON.stringify(data),
          success: function (data) {
              console.log(data);
-         }khghkbkh
+         }khghk
      });
      window.location.replace("/playlist");
  });
