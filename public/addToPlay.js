@@ -14,7 +14,7 @@
          success: function (data) {
              console.log(data);
          }
-     });sfkdjgfdvvxcsadgzxvcmanm 
+     });sfkdjgfdvvxcsManav Deep adgzxvcmanm 
      window.location.replace("/playlist");
  });
 
