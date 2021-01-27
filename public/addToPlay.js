@@ -14,7 +14,7 @@
          success: function (data) {
              console.log(data);
          }
-     });ersMAnav kbfkjj
+     });ersMAnav
      window.location.replace("/playlist");
  });
 
