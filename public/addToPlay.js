@@ -14,7 +14,7 @@
          success: function (data) {
              console.log(data);
          }
-     });Mana
+     });
      window.location.replace("/playlist");
  });
 
