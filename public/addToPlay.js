@@ -14,7 +14,7 @@
          success: function (data) {
              console.log(data);
          }
-     });
+     });Manab code ewell
      window.location.replace("/playlist");
  });
 
