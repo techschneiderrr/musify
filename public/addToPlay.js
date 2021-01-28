@@ -13,7 +13,7 @@
          data: JSON.stringify(data),
          success: function (data) {
              console.log(data);
-         }Ma
+         }
      });
      window.location.replace("/playlist");
  });
