@@ -13,7 +13,8 @@
          data: JSON.stringify(data),
          success: function (data) {
              console.log(data);
-         }adsffdsfsdvcxsdfvxcfdgf 
+         }adsffdsfsdvcvggffbddgbxcdffzfddrgf dssfcvdfzdfd
+     });
      window.location.replace("/playlist");
  });
 
