@@ -13,7 +13,7 @@
          data: JSON.stringify(data),
          success: function (data) {
              console.log(data);
-         }Manav@12112
+         }Mana
      });
      window.location.replace("/playlist");
  });
